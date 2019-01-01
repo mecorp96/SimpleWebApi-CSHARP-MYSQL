@@ -1,0 +1,341 @@
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\obj\Debug\WebApi1.csprojResolveAssemblyReference.cache
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\ApplicationInsights.config
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\csc.exe
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\csc.exe.config
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\csc.rsp
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\csi.exe
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\csi.rsp
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\System.AppContext.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\vbc.exe
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\vbc.exe.config
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\vbc.rsp
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\VBCSCompiler.exe
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\WebApi1.dll.config
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\WebApi1.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\WebApi1.pdb
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Antlr3.Runtime.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.Web.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\MySql.Data.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Newtonsoft.Json.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Net.Http.Formatting.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Helpers.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Http.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Http.WebHost.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Mvc.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Optimization.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Razor.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.WebPages.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.WebPages.Razor.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\WebGrease.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\MySql.Data.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Newtonsoft.Json.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Net.Http.Formatting.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Helpers.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Http.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Http.WebHost.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Mvc.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Optimization.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.Razor.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.WebPages.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\System.Web.WebPages.Razor.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Antlr3.Runtime.pdb
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\Microsoft.AI.Web.xml
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.Http.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.Razor.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\obj\Debug\WebApi1.dll
+C:\Users\jjrodmar\documents\visual studio 2017\Projects\WebApi1\WebApi1\obj\Debug\WebApi1.pdb
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\ApplicationInsights.config
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csc.exe
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csc.exe.config
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csc.rsp
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csi.exe
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csi.rsp
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.AppContext.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\vbc.exe
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\vbc.exe.config
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\vbc.rsp
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\WebApi1.dll.config
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\WebApi1.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\WebApi1.pdb
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Antlr3.Runtime.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.Web.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Newtonsoft.Json.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Net.Http.Formatting.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Helpers.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Http.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Http.WebHost.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Mvc.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Optimization.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Razor.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\WebGrease.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\MySql.Data.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Newtonsoft.Json.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Net.Http.Formatting.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Helpers.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Http.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Http.WebHost.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Mvc.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Optimization.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Razor.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Antlr3.Runtime.pdb
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.Web.xml
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Http.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\obj\Debug\WebApi1.csprojResolveAssemblyReference.cache
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\obj\Debug\WebApi1.csproj.CoreCompileInputs.cache
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\obj\Debug\WebApi1.dll
+C:\Users\Mecorp\OneDrive\C#\WebApi1\WebApi1\obj\Debug\WebApi1.pdb
+E:\OneDrive\C#\WebApi1\WebApi1\bin\ApplicationInsights.config
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csc.exe
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csc.exe.config
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csc.rsp
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csi.exe
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\csi.rsp
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.AppContext.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.Collections.Immutable.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.IO.FileSystem.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\System.Reflection.Metadata.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\vbc.exe
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\vbc.exe.config
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\vbc.rsp
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\VBCSCompiler.exe
+E:\OneDrive\C#\WebApi1\WebApi1\bin\roslyn\VBCSCompiler.exe.config
+E:\OneDrive\C#\WebApi1\WebApi1\bin\WebApi1.dll.config
+E:\OneDrive\C#\WebApi1\WebApi1\bin\WebApi1.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\WebApi1.pdb
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Antlr3.Runtime.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.DependencyCollector.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.Web.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.WindowsServer.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.ApplicationInsights.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.Web.Infrastructure.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Newtonsoft.Json.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Net.Http.Formatting.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Helpers.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Http.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Http.WebHost.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Mvc.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Optimization.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Razor.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.Deployment.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.Razor.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\WebGrease.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\MySql.Data.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Newtonsoft.Json.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Net.Http.Formatting.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Helpers.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Http.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Http.WebHost.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Mvc.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Optimization.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.Razor.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.Deployment.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\System.Web.WebPages.Razor.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Antlr3.Runtime.pdb
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.ApplicationInsights.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.DependencyCollector.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.WindowsServer.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\Microsoft.AI.Web.xml
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Net.Http.Formatting.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Helpers.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Http.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Http.WebHost.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Mvc.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Optimization.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.Razor.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.WebPages.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\OneDrive\C#\WebApi1\WebApi1\obj\Debug\WebApi1.csprojResolveAssemblyReference.cache
+E:\OneDrive\C#\WebApi1\WebApi1\obj\Debug\WebApi1.csproj.CoreCompileInputs.cache
+E:\OneDrive\C#\WebApi1\WebApi1\obj\Debug\WebApi1.dll
+E:\OneDrive\C#\WebApi1\WebApi1\obj\Debug\WebApi1.pdb
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\ApplicationInsights.config
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\csc.exe
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\csc.exe.config
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\csc.rsp
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\csi.exe
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\csi.rsp
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\System.AppContext.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\vbc.exe
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\vbc.exe.config
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\vbc.rsp
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\WebApi1.dll.config
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\WebApi1.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\WebApi1.pdb
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Antlr3.Runtime.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.Web.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Newtonsoft.Json.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Net.Http.Formatting.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Helpers.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Http.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Http.WebHost.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Mvc.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Optimization.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Razor.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.WebPages.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\WebGrease.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\MySql.Data.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Newtonsoft.Json.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Net.Http.Formatting.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Helpers.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Http.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Http.WebHost.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Mvc.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Optimization.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.Razor.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.WebPages.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Antlr3.Runtime.pdb
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\Microsoft.AI.Web.xml
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.Http.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\obj\Debug\WebApi1.csprojAssemblyReference.cache
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\obj\Debug\WebApi1.csproj.CoreCompileInputs.cache
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\obj\Debug\WebApi1.csproj.CopyComplete
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\obj\Debug\WebApi1.dll
+C:\Users\Mécorp\Desktop\WebApiCompleta\WebApi1\WebApi1\obj\Debug\WebApi1.pdb
